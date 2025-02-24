@@ -61,7 +61,4 @@ If you have any questions or suggestions, feel free to reach out:
 - **LinkedIn**: [João Gabriel (Gael) Leite Silva](https://www.linkedin.com/in/jo%C3%A3o-gabriel-leite-silva-332602276/)
 - **GitHub**: [Gael](https://github.com/Gael)
 
----
-
 **Note**: This repository is maintained as a personal and educational record. The solutions provided here may not be the most optimized or the only possible ones. The main goal is to learn and share knowledge.
-```
