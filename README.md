@@ -1,7 +1,6 @@
-```markdown
 # RespondendoBeecrowd
 
-Welcome to my repository of solutions for Beecrowd problems! Here, you'll find code in Python, C, and Java that solves various problems from the Beecrowd platform. This repository serves as a record of my progress and learning, as well as a reference for anyone studying or practicing competitive programming.
+Welcome to my repository of solutions for Beecrowd problems! Here, you'll find code in **Python**, **C**, and **Java** that solves various problems from the Beecrowd platform. This repository serves as a record of my progress and learning, as well as a reference for anyone studying or practicing competitive programming.
 
 ## About Beecrowd
 
@@ -9,41 +8,26 @@ Welcome to my repository of solutions for Beecrowd problems! Here, you'll find c
 
 ## Repository Structure
 
-The repository is organized as follows:
+The repository is organized by problem number, and each solution is labeled according to the problem's ID on Beecrowd. For example:
+- `1001.py` (Python solution for problem 1001)
+- `1001.c` (C solution for problem 1001)
+- `1001.java` (Java solution for problem 1001)
 
-- **Python**: Solutions written in Python.
-- **C**: Solutions written in C.
-- **Java**: Solutions written in Java.
-
-Inside each folder, files are named according to the problem number on Beecrowd. For example, the problem `1001 - Extremely Basic` will have a file named `1001.py`, `1001.c`, or `1001.java`, depending on the language.
+### Language Versions
+The solutions are compatible with the following language versions used by Beecrowd:
+- **Python**: Python 3.11
+- **C**: C99
+- **Java**: Java 14
 
 ## How to Use
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Gael/RespondendoBeecrowd.git
-   ```
+You can browse the solutions by problem number or language. Each file is named according to the problem ID, making it easy to locate specific solutions.
 
-2. **Navigate to the problem folder**:
-   ```bash
-   cd RespondendoBeecrowd/Python
-   ```
-
-3. **Run the code**:
-   - For Python:
-     ```bash
-     python 1001.py
-     ```
-   - For C:
-     ```bash
-     gcc 1001.c -o 1001
-     ./1001
-     ```
-   - For Java:
-     ```bash
-     javac 1001.java
-     java 1001
-     ```
+### Example
+If you're looking for a solution to problem **1001 - Extremely Basic**, you can find it in:
+- `Python/1001.py`
+- `C/1001.c`
+- `Java/1001.java`
 
 ## Contributions
 
@@ -60,5 +44,7 @@ If you have any questions or suggestions, feel free to reach out:
 - **Email**: jgleite20.04@gmail.com
 - **LinkedIn**: [João Gabriel (Gael) Leite Silva](https://www.linkedin.com/in/jo%C3%A3o-gabriel-leite-silva-332602276/)
 - **GitHub**: [Gael](https://github.com/Gael)
+
+---
 
 **Note**: This repository is maintained as a personal and educational record. The solutions provided here may not be the most optimized or the only possible ones. The main goal is to learn and share knowledge.
